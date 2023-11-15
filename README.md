@@ -2,7 +2,7 @@
 
 ## O que é a Smartkey?
 
-A Smartkey é um site desenvolvido como parte de um projeto acadêmico, voltado para armazenamento seguro de senhas. Este projeto tem como objetivo proporcionar uma aprendizagem mais aprofundada sobre tecnologias fundamentais, incluindo HTML, CSS e JavaScript para o front-end, e Java e MySQL para o back-end. Além disso, explora o universo de frameworks e criptografias. No caso específico, os dados são protegidos por uma criptografia AES (Advanced Encryption Standard), utilizando a mesma chave para criptografar e descriptografar.
+A Smartkey é um site desenvolvido como parte de um projeto acadêmico, voltado para armazenamento seguro de senhas. Este projeto tem como objetivo proporcionar uma aprendizagem mais aprofundada sobre tecnologias fundamentais usando como base o Java e MySQL para o back-end. Além disso, explora o universo de frameworks e criptografias. No caso específico, os dados são protegidos por uma criptografia AES (Advanced Encryption Standard), utilizando a mesma chave para criptografar e descriptografar.
 
 
 #### Tecnologias BACKEND Utilizadas
